@@ -11,7 +11,7 @@
     <properties>
         <appengine.app.version>1</appengine.app.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.framework.version>4.1.4.RELEASE</spring.framework.version>
+        <spring.framework.version>6.0.0</spring.framework.version>
         <spring.security.version>3.2.5.RELEASE</spring.security.version>
     </properties>
 
